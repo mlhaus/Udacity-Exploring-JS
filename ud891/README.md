@@ -1,6 +1,6 @@
 # Udacity Web Accessibility
 
-Hi there! This is the course repo for Udacity Web Accessibility. Contained in
+Hi there! This is the course repo for [Udacity Web Accessibility](https://www.udacity.com/course/web-accessibility--ud891). Contained in
 this repo are a number of sample exercises to help you improve your
 accessibility skills.
 
